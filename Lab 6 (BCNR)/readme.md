@@ -1,0 +1,8 @@
+#Black Country, Paved Road
+###Webmap by: Abe Krell
+------
+As a proof of concept for bivariate mapping, I wanted to create a map with two unrelated but fond topics of mine: music and transportation planning.  I have recently been enjoying British Band  Black Country New Road and I am excited for their upcoming album <i> Ants From Up Here. </i>, and with their complimentary US Tour, I thought it would be good to display this point data with a cloropleth map of paved roads (courtesy of Cubit Planning [https://blog.cubitplanning.com/2010/02/road-miles-by-state/]) in the contiguous US.
+
+Some features one can expect from this webmap include point and cloropleth data of those two data sets, with the points representing tour stops and include pop-ups of the size of the venue.  The points are represented with a plane icon, which is the main symbol of their new album rollout, with the icons changing color depending on the size of the venue.  The road data is shown with a blue gradient, with There is also a legend present, which shows the darker blues representing more paved roads, with the lighter colors showing the least amount of paved roads.  These subjects are tied together with a legend which shows the values of both of these variables.
+
+On the left-hand side of the web application, there is a section with information about the tour (courtesy of the band on their <a href = "https://blackcountrynewroad.bandcamp.com/album/ants-from-up-there">bandcamp page</a>).  In addition to this, there are additional features, such as a scale bar, and a wonky tool which shows the map user the coordinates of where their mouse cursor is.  Last but not least, a favicon of the upcoming album cover is used, courtesy of the band.
